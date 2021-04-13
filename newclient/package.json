@@ -24,7 +24,7 @@
         }
     },
     "dependencies": {
-        "@babel/core": "^7.4.5",
+        "@babel/core": "^7.13.10",
         "@commitlint/config-conventional": "^11.0.0",
         "@sentry/browser": "^5.23.0",
         "@sentry/integrations": "^5.23.0",
